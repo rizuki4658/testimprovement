@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BE5C5DAA-626A-4415-8A52-FCD959DE8E1A</title>
+    <g id="customers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="customer-archived-confirm" transform="translate(-669.000000, -283.000000)" fill="orange">
+            <g id="Group-6" transform="translate(516.000000, 233.000000)">
+                <g id="attention" transform="translate(153.000000, 50.000000)">
+                    <path d="M50,0 C22.3829317,0 0,22.3829317 0,50 C0,77.6172691 22.3829317,100 50,100 C77.6170683,100 100,77.6170683 100,50 C100,22.3827309 77.6170683,0 50,0 Z M50,96 C24.636747,96 4,75.363253 4,49.9997992 C4,24.6363454 24.636747,3.9997992 50,3.9997992 C75.3634538,3.9997992 96,24.6365462 96,49.9997992 C96,75.363253 75.3634538,96 50,96 Z" id="Shape" fill-rule="nonzero"></path>
+                    <polygon id="Rectangle" points="46.860763 22 53.860763 22 52.8830602 66.1666667 47.9901563 66.1666667"></polygon>
+                    <rect id="Rectangle" x="47.9901563" y="69.5714286" width="4.89290383" height="5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

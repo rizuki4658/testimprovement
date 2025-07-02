@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>ico/inventory-fill</title>
+  <g id="buyback-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="shipping" transform="translate(1.000000, 1.000000)" fill="currentColor" fill-rule="nonzero">
+      <path d="M13,0.886363636 C13,0.398272727 12.6005455,0 12.1136364,0 L8.67572508,0 L8.67572508,5.20834589 L6.5,4.05791233 L4.33050453,5.20834589 L4.33050453,0 L0.886363636,0 C0.398272727,0 0,0.398272727 0,0.886363636 L0,12.1136364 C0,12.6017273 0.398272727,13 0.886363636,13 L12.1136364,13 C12.6005455,13 13,12.6017273 13,12.1136364 L13,0.886363636 Z" id="Path"></path>
+    </g>
+  </g>
+</svg>

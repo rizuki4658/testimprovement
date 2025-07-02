@@ -1,0 +1,1 @@
+const e=e=>{if(!e)return null;switch(e.toLowerCase()){case"csv":return"text/csv";case"xls":return"application/vnd.ms-excel";case"xlsx":return"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";default:return null}};export{e as f};
