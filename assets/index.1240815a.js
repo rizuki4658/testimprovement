@@ -1,0 +1,1 @@
+import{k as e,aS as r}from"./vendor.f1efedad.js";import{u as s}from"./components.41c6afd8.js";import"./LoadingCard.9892fd7a.js";import"./card.de1f0319.js";import"./index.e231b017.js";var a=e({setup(){const{genSuspense:e}=s();return()=>[e(r)]}});export{a as default};
