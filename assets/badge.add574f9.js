@@ -1,1 +1,0 @@
-import{a as e,m as s}from"./index.ec266ec1.js";import{k as a,x as n}from"./vendor.f1efedad.js";const t=a({name:"Badge",mixins:[...e([s],"badge")],setup:(e,{slots:s})=>({genContent:()=>n("span",{class:"badge__content"},s.default())}),render(){const e=[this.genContent()],s=["badge",this.classColor];return n("div",{class:s},e)}});export{t as _};

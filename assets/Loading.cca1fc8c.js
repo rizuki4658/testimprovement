@@ -1,1 +1,0 @@
-import{_ as o}from"./index.161fb295.js";import{a0 as r,A as s,o as a,t as e}from"./vendor.f1efedad.js";const n={style:{height:"100px"}};var t=o({},[["render",function(o,t){const d=r("loading");return s((a(),e("div",n,null,512)),[[d,!0]])}]]);export{t as L};

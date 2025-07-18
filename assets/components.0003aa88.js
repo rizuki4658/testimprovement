@@ -1,1 +1,0 @@
-import{L as o}from"./LoadingCard.be59eb97.js";import{x as e,ar as n}from"./vendor.f1efedad.js";const a=()=>({genSuspense:(a,r=null)=>{a.component||(a={component:a});const s=a.fallback||e(o),t=a.props||{};return r&&(t.key=r),e(n,null,{default:()=>e(a.component,t),fallback:()=>s})}});export{a as u};
