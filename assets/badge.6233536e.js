@@ -1,0 +1,1 @@
+import{a as s,m as e}from"./index.9c4dcead.js";import{k as a,x as n}from"./vendor.9695fe57.js";const t=a({name:"Badge",mixins:[...s([e],"badge")],setup:(s,{slots:e})=>({genContent:()=>n("span",{class:"badge__content"},e.default())}),render(){const s=[this.genContent()],e=["badge",this.classColor];return n("div",{class:e},s)}});export{t as _};
