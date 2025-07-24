@@ -1,1 +1,0 @@
-import{_ as o}from"./index.9c4dcead.js";import{$ as r,A as s,o as e,t as n}from"./vendor.9695fe57.js";const t={style:{height:"100px"}};var a=o({},[["render",function(o,a){const d=r("loading");return s((e(),n("div",t,null,512)),[[d,!0]])}]]);export{a as L};
